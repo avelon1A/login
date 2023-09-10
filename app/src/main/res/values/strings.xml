@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login_button_label">button\n</string>
+    <string name="password_hint">password\n</string>
+    <string name="username_hint">username</string>
+    <string name="registration_link_label">registrtion link</string>
+    <string name="app_logo_description">logo\n</string>
+</resources>
